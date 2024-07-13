@@ -1,17 +1,17 @@
 /*  your css code here. If applicable */
 .container{
 	border: 2px solid black;
-	width:300px;
-	height:400px;
+	width:200px;
+	height:200px;
 	background-color:lightblue;
 	position:relative;
-	top:100px;
-	left:200px;
+	align-items:center;
+	justify-content: center;
 }
 .text{
 	color:darkviolet;
 	font-size:30px;
 	position:absolute;
-	top:180px;
-	left:60px;
+	align-items: center;
+	justify-content:center;
 }
